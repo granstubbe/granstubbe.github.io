@@ -1,6 +1,7 @@
 ---
-title: Welcome
+title: Granstubbe
 layout: default
 ---
 
-Hello, Minima!
+To be updated...
+https://github.com/granstubbe
