@@ -1,6 +1,6 @@
 ---
 title: Granstubbe
-layout: minima
+layout: default
 ---
 
 To be updated...
