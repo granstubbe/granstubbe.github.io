@@ -1,16 +1,8 @@
 ---
-title: Granstubbe
-layout: default
+#
+# You don't need to edit this file, it's empty on purpose.
+# Edit minima's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
 ---
-
-To be updated...
-
-[https://github.com/granstubbe](https://github.com/granstubbe)
-
-
-Systembolagets statistik
-[https://granstubbe.github.io/dryck-plot](https://granstubbe.github.io/dryck-plot)
-
-
-
-
