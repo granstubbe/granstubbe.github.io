@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Apartment prices in Sweden"
-description: "Heatmaps of the apartment prices of the 10 biggest cities in Sweden from 2016"
+description: "Heatmaps of the apartment prices in the 10 biggest cities in Sweden from 2016"
 ---
 
-Heatmaps of the apartment prices of the 10 biggest cities in Sweden from 2016.
+Heatmaps of the apartment prices in the 10 biggest cities in Sweden from 2016.
+
 **Click on the images for full size!**
 
 ### Stockholm
@@ -64,4 +65,5 @@ Heatmaps of the apartment prices of the 10 biggest cities in Sweden from 2016.
 
 [![norrköping]({{ site.url }}/assets/apartmentprices/norrköping_thumb.jpg)]({{ site.url }}/assets/apartmentprices/norrköping_full.jpg){:target="_blank"}
 
-All made with R (ggmap,ggplot and viridis) and Photoshop
+
+All made with R (rvest, ggmap,ggplot and viridis) and Photoshop
